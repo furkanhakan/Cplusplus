@@ -1,0 +1,4 @@
+2         selman              selman         selman    
+4         berat               berat          berat     
+1         furkan              furkan         furkan    
+22        sa                  fds            dfsa      
