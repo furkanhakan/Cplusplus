@@ -1,16 +1,14 @@
-﻿Build started 21.10.2018 18:06:34.
-     1>Project "D:\Visual Studio Projeleri\C++\cift_bagli_siralama-V1.1\cift_bagli_siralama\cift_bagli_siralama.vcxproj" on node 2 (Build target(s)).
+﻿Build started 23.10.2018 23:06:24.
+     1>Project "C:\Users\Furkan HAKAN\Desktop\Çalışmalar\cift_bagli_siralama-V1.1\cift_bagli_siralama\cift_bagli_siralama.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\cift_bagli_siralama.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\cift_bagli_siralama.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt cift_bagli_siralama.cpp
          cift_bagli_siralama.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Visual Studio Projeleri\C++\cift_bagli_siralama-V1.1\Debug\cift_bagli_siralama.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Visual Studio Projeleri\C++\cift_bagli_siralama-V1.1\Debug\cift_bagli_siralama.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Visual Studio Projeleri\C++\cift_bagli_siralama-V1.1\Debug\cift_bagli_siralama.lib" /MACHINE:X86 Debug\cift_bagli_siralama.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Furkan HAKAN\Desktop\Çalışmalar\cift_bagli_siralama-V1.1\Debug\cift_bagli_siralama.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Furkan HAKAN\Desktop\Çalışmalar\cift_bagli_siralama-V1.1\Debug\cift_bagli_siralama.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Furkan HAKAN\Desktop\Çalışmalar\cift_bagli_siralama-V1.1\Debug\cift_bagli_siralama.lib" /MACHINE:X86 Debug\cift_bagli_siralama.obj
          Debug\stdafx.obj
-         cift_bagli_siralama.vcxproj -> D:\Visual Studio Projeleri\C++\cift_bagli_siralama-V1.1\Debug\cift_bagli_siralama.exe
-     1>Done Building Project "D:\Visual Studio Projeleri\C++\cift_bagli_siralama-V1.1\cift_bagli_siralama\cift_bagli_siralama.vcxproj" (Build target(s)).
+         cift_bagli_siralama.vcxproj -> C:\Users\Furkan HAKAN\Desktop\Çalışmalar\cift_bagli_siralama-V1.1\Debug\cift_bagli_siralama.exe
+     1>Done Building Project "C:\Users\Furkan HAKAN\Desktop\Çalışmalar\cift_bagli_siralama-V1.1\cift_bagli_siralama\cift_bagli_siralama.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:02.72
+Time Elapsed 00:00:02.04

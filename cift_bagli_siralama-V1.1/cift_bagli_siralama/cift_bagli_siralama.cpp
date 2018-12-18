@@ -3,6 +3,8 @@
 
 #include "stdafx.h"
 #include <iostream>
+#include <locale.h>
+
 using namespace std;
 
 struct node
@@ -166,6 +168,7 @@ void yazdir(node *r){
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	setlocale(LC_ALL,"Turkish");
 	int sayi;
 	char secim;
 	node *root;
